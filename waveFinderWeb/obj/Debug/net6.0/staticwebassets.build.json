@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IaTP+rhuPYhw7+gYxmOPC+y3UvSXvrT9xPRcYdIssxo=",
+  "Source": "waveFinderWeb",
+  "BasePath": "_content/waveFinderWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

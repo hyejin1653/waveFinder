@@ -1,0 +1,11 @@
+D:\Project\@@동명대\waveFinderSend\waveFinderSend\bin\Debug\waveFinderSend.exe.config
+D:\Project\@@동명대\waveFinderSend\waveFinderSend\bin\Debug\waveFinderSend.exe
+D:\Project\@@동명대\waveFinderSend\waveFinderSend\bin\Debug\waveFinderSend.pdb
+D:\Project\@@동명대\waveFinderSend\waveFinderSend\obj\Debug\waveFinderSend.csproj.AssemblyReference.cache
+D:\Project\@@동명대\waveFinderSend\waveFinderSend\obj\Debug\waveFinderSend.csproj.SuggestedBindingRedirects.cache
+D:\Project\@@동명대\waveFinderSend\waveFinderSend\obj\Debug\waveFinderSend.Form1.resources
+D:\Project\@@동명대\waveFinderSend\waveFinderSend\obj\Debug\waveFinderSend.Properties.Resources.resources
+D:\Project\@@동명대\waveFinderSend\waveFinderSend\obj\Debug\waveFinderSend.csproj.GenerateResource.cache
+D:\Project\@@동명대\waveFinderSend\waveFinderSend\obj\Debug\waveFinderSend.csproj.CoreCompileInputs.cache
+D:\Project\@@동명대\waveFinderSend\waveFinderSend\obj\Debug\waveFinderSend.exe
+D:\Project\@@동명대\waveFinderSend\waveFinderSend\obj\Debug\waveFinderSend.pdb

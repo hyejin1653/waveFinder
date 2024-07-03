@@ -1,0 +1,7 @@
+D:\Project\@@동명대\waveFinderWeb\obj\Debug\net5.0\waveFinderWeb.csproj.AssemblyReference.cache
+D:\Project\@@동명대\waveFinderWeb\obj\Debug\net5.0\waveFinderWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\@@동명대\waveFinderWeb\obj\Debug\net5.0\waveFinderWeb.AssemblyInfoInputs.cache
+D:\Project\@@동명대\waveFinderWeb\obj\Debug\net5.0\waveFinderWeb.AssemblyInfo.cs
+D:\Project\@@동명대\waveFinderWeb\obj\Debug\net5.0\waveFinderWeb.csproj.CoreCompileInputs.cache
+D:\Project\@@동명대\waveFinderWeb\obj\Debug\net5.0\waveFinderWeb.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\@@동명대\waveFinderWeb\obj\Debug\net5.0\waveFinderWeb.MvcApplicationPartsAssemblyInfo.cache
